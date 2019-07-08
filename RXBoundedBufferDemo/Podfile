@@ -1,0 +1,11 @@
+
+
+target 'RXBoundedBufferDemo' do
+
+pod 'RXBoundedBuffer', :path => '../'
+
+
+inhibit_all_warnings!
+
+end
+

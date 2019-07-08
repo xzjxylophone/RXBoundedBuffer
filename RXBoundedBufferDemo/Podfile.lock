@@ -1,0 +1,16 @@
+PODS:
+  - RXBoundedBuffer (0.1)
+
+DEPENDENCIES:
+  - RXBoundedBuffer (from `../`)
+
+EXTERNAL SOURCES:
+  RXBoundedBuffer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RXBoundedBuffer: 766b51b4745e466769e4ca27c6ec5b46ef49896e
+
+PODFILE CHECKSUM: 5924e13cae1f7f69a0105a202b843ba626a80e3a
+
+COCOAPODS: 1.5.3
